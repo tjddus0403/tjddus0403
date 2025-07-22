@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Sungyeon Kim, a undergraduate 
+I'm Sungyeon Kim, a passionate and versatile system developer eager to gain diverse domain experiences and grow freely in the tech world.
 
 ## 📚Education
 Soongsil Univ. AI Convergence (B.S., _Summa Cum Laude_, _GPA: 4.49/4.5_)  
