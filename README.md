@@ -22,7 +22,7 @@ Soongsil Univ. AI Convergence (B.S., _Summa Cum Laude_, _GPA: 4.49/4.5_)
 
 🗂️ Deep Learning-based Prefetch Teqnique for CXL-Memory
 
-🥉 [3rd Prize] 2025 LG Aimers 6th: _Offline Hackathon on Predictive Modeling for Fertility Treatment_
+🥉 [3rd Prize] 2025 LG Aimers 6th: _Online Hackathon on Predictive Modeling for Fertility Treatment_
 
 <!--
 **tjddus0403/tjddus0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
